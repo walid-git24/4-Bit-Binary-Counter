@@ -10,7 +10,6 @@ The implementation uses the `DDRB`, `PORTB`, and `PINB` registers instead of sta
 
 ## Circuit Overview
 
-![circuit image](docs/images/circuit.png)
 **Simulation:** [Open Wokwy Project]https://wokwi.com/projects/481013384534681601)
 
 ## Hardware Configuration
@@ -53,7 +52,7 @@ A 50 ms delay is used for button debouncing.
 ## Simulation
 
 **Wokwi Project:**  
-https://wokwi.com/projects/480939459201463297
+https://wokwi.com/projects/481013384534681601
 
 ## Simulation Evidence
 
