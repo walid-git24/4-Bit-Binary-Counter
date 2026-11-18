@@ -70,11 +70,6 @@ MSTI_Arena-ASL-03/
 ├── README.md
 ├── diagram.json
 ├── wokwi.toml
-└── evidence/
-    └── simulation/
-        ├── circuit-overview.png
-        ├── binary-counter.png
-        └── serial-monitor.png
 ```
 
 ## Competition Information
